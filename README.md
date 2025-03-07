@@ -23,13 +23,5 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 # Project Result
 [Click here to get full code](https://github.com/Muskan5799/Maven_Movies_Rental_DA/blob/main/MOVEIS_RENTAL_CODE.SQL.sql)
 
-(1) You need to provide customer firstname, lastname and email id to the marketing team 
-We want to see rental rate and how many movies are in each rental category
-Which rating has the most films?
-Which rating is most prevalant in each store?
-List of films by Film Name, Category, Language
-How many times each movie has been rented out?
-REVENUE PER FILM (TOP 10 GROSSERS)
-Most Spending Customer so that we can send him/her rewards or debate points
 
 
