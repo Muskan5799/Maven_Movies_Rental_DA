@@ -23,5 +23,6 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 # Project Result
 [Click here to get full code](https://github.com/Muskan5799/Maven_Movies_Rental_DA/blob/main/MOVEIS_RENTAL_CODE.SQL.sql)
 
--- You need to provide customer firstname, lastname and email id to the marketing team --
+(1) You need to provide customer firstname, lastname and email id to the marketing team 
+
 
