@@ -27,9 +27,11 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 ![Q1](https://github.com/user-attachments/assets/9971d02f-f033-449e-adfe-91d31bcbffbf)
 
 (2)  How many movies are with rental rate of $0.99?
+
 ![Q2](https://github.com/user-attachments/assets/f692f73c-1c50-40dd-b987-34deb3bb7688)
 
 (3) We want to see rental rate and how many movies are in each rental category
+
 ![Q3](https://github.com/user-attachments/assets/88d54523-4e4d-44bb-a0b3-23ec9e2fb62e)
 
 (4) Which rating has the most films? 
