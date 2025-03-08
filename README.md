@@ -56,6 +56,8 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 
 (9) Most Spending Customer so that we can send him/her rewards or debate points
 
+![image](https://github.com/user-attachments/assets/a5a35e91-f63e-416b-9960-023ff234c687)
+
 (10) Which Store has historically brought the most revenue?
 
 ![Q9](https://github.com/user-attachments/assets/f47c281e-3915-4c63-8158-6d2f95bc2f8b)
@@ -70,6 +72,7 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 
 (13) Could you pull all payments from our first 100 customers (based on customer ID) 
 
+![image](https://github.com/user-attachments/assets/75f604b4-4dc7-4713-8928-94c5857cfa38)
 
 (14) Now I’d love to see just payments over $5 for those same customers, since January 1, 2006
 
@@ -78,6 +81,7 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 (15) Now, could you please write a query to pull all payments from those specific customers, along
      with payments over $5, from any customer?
 
+![image](https://github.com/user-attachments/assets/0ff6301f-01eb-4002-a022-704f65119fca)
 
 (16) We need to understand the special features in our films. Could you pull a list of films which
      include a Behind the Scenes special feature?
