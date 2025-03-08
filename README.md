@@ -24,8 +24,7 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 [Click here to get full code](https://github.com/Muskan5799/Maven_Movies_Rental_DA/blob/main/MOVEIS_RENTAL_CODE.SQL.sql)
 
 (1)  You need to provide customer firstname, lastname and email id to the marketing team 
-
-(https://github.com/user-attachments/assets/385044f4-bb68-41b7-aeed-498836d63fe0)
+![Q1](https://github.com/user-attachments/assets/9971d02f-f033-449e-adfe-91d31bcbffbf)
 
 (2)  How many movies are with rental rate of $0.99?
 
