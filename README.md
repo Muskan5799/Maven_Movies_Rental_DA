@@ -24,25 +24,31 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 [Click here to get full code](https://github.com/Muskan5799/Maven_Movies_Rental_DA/blob/main/MOVEIS_RENTAL_CODE.SQL.sql)
 
 (1)  You need to provide customer firstname, lastname and email id to the marketing team 
-![Q1](https://github.com/user-attachments/assets/385044f4-bb68-41b7-aeed-498836d63fe0)
+
+(https://github.com/user-attachments/assets/385044f4-bb68-41b7-aeed-498836d63fe0)
 
 (2)  How many movies are with rental rate of $0.99?
-![Q2](https://github.com/user-attachments/assets/021dfc55-533b-4079-8b40-cf06604d08cf)
 
-(3) We want to see rental rate and how many movies are in each rental category 
-![Q3](https://github.com/user-attachments/assets/028f612f-53a7-423a-b1d6-3588a4f5cbe9)
+(https://github.com/user-attachments/assets/021dfc55-533b-4079-8b40-cf06604d08cf)
+
+(3) We want to see rental rate and how many movies are in each rental category
+
+(https://github.com/user-attachments/assets/028f612f-53a7-423a-b1d6-3588a4f5cbe9)
 
 (4) Which rating has the most films? 
-![Q4](https://github.com/user-attachments/assets/e9e362fa-1a67-4e48-99d8-a24886a179ec)
+
+https://github.com/user-attachments/assets/e9e362fa-1a67-4e48-99d8-a24886a179ec)
 
 (5) Which rating is most prevalant in each store?
-![Q5](https://github.com/user-attachments/assets/52e32ad9-ee3a-4ca1-a782-6dbbb94f3255)
+
+(https://github.com/user-attachments/assets/52e32ad9-ee3a-4ca1-a782-6dbbb94f3255)
 
 (6) List of films by Film Name, Category, Language
-![Q6](https://github.com/user-attachments/assets/b021b333-f6f6-47ed-add4-51f43f6cc30d) 
+
+(https://github.com/user-attachments/assets/b021b333-f6f6-47ed-add4-51f43f6cc30d) 
 
 (7) How many times each movie has been rented out?
-![Q7](https://github.com/user-attachments/assets/2098d760-5d64-4d0b-95de-76c340fb85e4)
+(https://github.com/user-attachments/assets/2098d760-5d64-4d0b-95de-76c340fb85e4)
 
 
 
