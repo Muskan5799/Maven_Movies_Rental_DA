@@ -46,9 +46,53 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 ![Q6](https://github.com/user-attachments/assets/e712660f-578b-4794-bd8c-2d061720526a)
 
 (7) How many times each movie has been rented out?
-(https://github.com/user-attachments/assets/2098d760-5d64-4d0b-95de-76c340fb85e4)
+
+![Q7](https://github.com/user-attachments/assets/33dae189-3731-4c54-bc6b-f44affeec4b9)
+ 
+(8) REVENUE PER FILM (TOP 10 GROSSERS)
+
+![Q8](https://github.com/user-attachments/assets/f5c9e5ee-2cb9-4177-9ca4-151c66e15be5)
+
+(9) Most Spending Customer so that we can send him/her rewards or debate points
+
+(10) Which Store has historically brought the most revenue?
+
+![Q9](https://github.com/user-attachments/assets/f47c281e-3915-4c63-8158-6d2f95bc2f8b)
+
+ (11) How many rentals we have for each month
+
+ ![Q10](https://github.com/user-attachments/assets/0649613d-717e-4433-94c6-8b868f4707b1)
+
+(12) Reward users who have rented at least 30 times (with details of customers)
+
+![Q11](https://github.com/user-attachments/assets/bf07619e-14a6-453d-92ed-f7509e154217)
+
+(13) Could you pull all payments from our first 100 customers (based on customer ID) 
 
 
+(14) Now I’d love to see just payments over $5 for those same customers, since January 1, 2006
+
+![Q13](https://github.com/user-attachments/assets/f4fbf3bd-542a-42b0-8910-5fc5850ca6eb)
+
+(15) Now, could you please write a query to pull all payments from those specific customers, along
+     with payments over $5, from any customer?
+
+
+(16) We need to understand the special features in our films. Could you pull a list of films which
+     include a Behind the Scenes special feature?
+
+![Q15](https://github.com/user-attachments/assets/6c4fad19-b284-4718-be14-ad3c3f98a936)
+
+(17) unique movie ratings and number of movies
+
+![image](https://github.com/user-attachments/assets/61b8ec18-490a-47ce-b819-dac9c963e4e7)
+
+
+
+
+
+
+ 
 
 
 
