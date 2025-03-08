@@ -35,6 +35,7 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 ![Q3](https://github.com/user-attachments/assets/88d54523-4e4d-44bb-a0b3-23ec9e2fb62e)
 
 (4) Which rating has the most films? 
+
 ![Q4](https://github.com/user-attachments/assets/ed1f48e4-e6a6-4a9b-a431-3474ae28b54d)
 
 (5) Which rating is most prevalant in each store?
