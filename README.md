@@ -43,7 +43,7 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 
 (6) List of films by Film Name, Category, Language
 
-(https://github.com/user-attachments/assets/b021b333-f6f6-47ed-add4-51f43f6cc30d) 
+![Q6](https://github.com/user-attachments/assets/e712660f-578b-4794-bd8c-2d061720526a)
 
 (7) How many times each movie has been rented out?
 (https://github.com/user-attachments/assets/2098d760-5d64-4d0b-95de-76c340fb85e4)
