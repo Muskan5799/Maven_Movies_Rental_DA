@@ -18,7 +18,7 @@ Analyze rental rates to identify trends and the profitability of various pricing
 Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
 
 # Tools & Library Used
-![My SQL Logo](https://github.com/user-attachments/assets/b2a6ff0a-4325-4de3-8676-2f779d686ab4)
+<img src="https://github.com/user-attachments/assets/b2a6ff0a-4325-4de3-8676-2f779d686ab4" alt="MySQL Logo" width="200">
 
 # Project Result
 [Click here to get full code](https://github.com/Muskan5799/Maven_Movies_Rental_DA/blob/main/MOVEIS_RENTAL_CODE.SQL.sql)
